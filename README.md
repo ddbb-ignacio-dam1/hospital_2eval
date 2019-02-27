@@ -28,4 +28,4 @@ Se almacenará la fecha de alta de cada paciente cuando se le dé de alta.
 
 ## MERE
 
-[!alert_text]
+![alert_text](https://github.com/ddbb-ignacio-dam1/hospital_2eval/blob/master/hospital_mere.jpeg)
