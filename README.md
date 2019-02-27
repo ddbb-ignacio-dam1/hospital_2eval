@@ -1,5 +1,5 @@
-# hospital_2eval
-ejercicio Hospial 2 eval
+# Hospital
+Ejercicio Hospial 2 eval
 
 
 Crear una BD para la gestión de un Hospital que incluya la elaboración de un Diagrama MER (o MERE), su diagrama Relacional, diagrama de tablas y código SQL necesario para generar la estructura de tablas correspondiente.
